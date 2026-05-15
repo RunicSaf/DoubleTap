@@ -19,10 +19,7 @@ Doubletap is a lightweight Android utility for binding hardware key gestures to 
 - ⏻↑ Press power + volume up together
 - ⏻→↑ Power then volume up
 - ↓→↑→⏻ Down, up, power
-
-## Notes
-
-Hardware key support depends on which key events your device exposes to Accessibility.
+https://github.com/RunicSaf/DoubleTap/blob/main/README.md
 
 ## Privacy
 
@@ -41,3 +38,7 @@ Doubletap uses Android Accessibility so it can detect supported hardware key ges
 Optional Keep Active mode uses a foreground service with a persistent notification to help keep shortcuts available in the background.
 
 Hardware key support depends on the device. Some phones may block certain keys or combinations.
+
+## Notes
+
+Hardware key support depends on which key events your device exposes to Accessibility.
