@@ -1,4 +1,4 @@
-# Doubletap v1.0
+# Doubletap
 
 Doubletap is a lightweight Android utility for binding hardware key gestures to apps.
 
